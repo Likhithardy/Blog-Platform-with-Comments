@@ -87,7 +87,7 @@ function Home() {
       <nav className="navbar">
 
         <h1 className="logo">
-          Ritisha's Blog 🚀
+          likhitha's Blog 🚀
         </h1>
 
         <div className="nav-links">
@@ -160,7 +160,7 @@ function Home() {
                   className="read-btn"
                   onClick={() =>
                     alert(
-                      `${blog.title}\n\n${blog.fullText}\n\nThanks for reading on Ritisha's Blog 🚀`
+                      `${blog.title}\n\n${blog.fullText}\n\nThanks for reading on likhitha's Blog 🚀`
                     )
                   }
                 >
@@ -182,7 +182,7 @@ function Home() {
       <section className="features-section">
 
         <h2 className="section-title">
-          Why Choose Ritisha's Blog?
+          Why Choose likhitha's Blog?
         </h2>
 
         <div className="features-grid">
@@ -257,7 +257,7 @@ function Home() {
 
       <footer className="footer">
 
-        © 2026 Ritisha's Blog | Built with React 💙
+        © 2026 likhitha's Blog | Built with React 💙
 
       </footer>
 
